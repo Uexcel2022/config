@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 loan:
-  message: "Welcome to EazyBank Loan related local prod APIs"
+  message: "Welcome to EazyBank Loan related local production APIs"
   contactDetails:
     name: "Samson Michael - Product Owner"
     email: "{cipher}0981456db96f9b077206c2614f4422045cca0d063ad5dbb496db0f200b04da0bbf82f9f8c8667e9fa5f3a7a856b2a0a5"
