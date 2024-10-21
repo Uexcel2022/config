@@ -2,7 +2,7 @@
 build:
   version: "1.5
 
-card:
+cards:
   message: "Welcome to EazyBank Card related local APIs in QA Environment"
   contactDetails:
     name: "Kelvin Suito - QA Lead"
