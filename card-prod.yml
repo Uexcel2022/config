@@ -4,7 +4,7 @@ build:
 card:
   message: "Welcome to EazyBank Card related local production APIs"
   contactDetails:
-    name: "Jacob Maz - Product Owner"
+    name: "Jacob Welth - Product Owner"
     email: "{cipher}d11d6bd2dbf8c0c2866863dfc70ee189262ec80bf743f2fd60ee56633f7bd770766cc2a87c6d0e56a8ef06364a933cf9"
   onCallSupport:
     - (666) 556-1236
